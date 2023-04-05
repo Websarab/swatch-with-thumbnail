@@ -1,0 +1,1 @@
+# swatch-with-thumbnail
