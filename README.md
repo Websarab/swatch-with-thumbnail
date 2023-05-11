@@ -1,6 +1,7 @@
 # swatch-with-thumbnail
 
  //custom feature product
+  //homepage custom feature product
 $('input.custom_color_swatch').click(function(){
 var color_val_get = $(this).val().toLowerCase();
 $('.product_image_sidebar_items').each(function(){
